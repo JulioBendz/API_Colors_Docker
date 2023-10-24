@@ -1,7 +1,7 @@
 {
   "name": "back-end-developer-expedition-trainee",
   "version": "1.0.0",
-  "description": "",
+  "description": "Proyecto de desarrollo backend para el programa Xpedition Trainee",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "node src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Julio Albert Bendezu Gutierrez",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
