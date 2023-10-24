@@ -4,10 +4,14 @@
   "description": "Proyecto de desarrollo backend para el programa Xpedition Trainee",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
-  },
+    "start": "node src/index.js",
+    "test": "echo \"Error: not test specified\"&& exit 1"
+  }, 
   "keywords": [],
   "author": "Julio Albert Bendezu Gutierrez",
   "license": "ISC",
