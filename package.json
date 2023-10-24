@@ -10,6 +10,7 @@
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
+    
     "test": "echo \"Error: not test specified\"&& exit 1"
   },
   "keywords": [],
