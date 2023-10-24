@@ -1,13 +1,16 @@
-# Catálogo de Colores
+# Aplicación de Gestión de Colores o Catálogo de Colores
 
-## Descripción
-Este proyecto proporciona un catálogo en línea de colores estandarizados, permitiendo a los usuarios buscar y explorar diferentes colores y sus códigos hexadecimales.
+## Introducción
+
+Esta es una aplicación de gestión o catálogo de colores que te permite copiar fácilmente lo colores estandarizados por la empresa para las creaciones digitales. Puedes realizar diversas operaciones con los colores, como crear (guardar), listar (mostrar), actualizar y eliminar colores. La aplicación también admite la paginación de resultados y puede responder en formato JSON o según la preferencia del cliente se le puede agregar la respuesta en formato XML.
 
 ## Tecnologías Utilizadas
-- Node.js
-- Express
-- MySQL
-- JavaScript
+
+- Node.js: Entorno de ejecución de JavaScript en el servidor
+- Express: Marco de desarrollo de aplicaciones web para Node.js
+- MySQL: Sistema de gestión de bases de datos relacional
+- xml2js: Biblioteca para convertir objetos JavaScript a XML
+- Otros módulos y paquetes npm para gestionar la lógica de la aplicación y la base de datos.
 
 ## Instalación
 Para ejecutar este proyecto en tu entorno de desarrollo, sigue estos pasos:
